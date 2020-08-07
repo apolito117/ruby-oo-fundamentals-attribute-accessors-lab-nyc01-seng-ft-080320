@@ -8,8 +8,6 @@ class Cat
     @name = name
 
 
-
-
   end
 
 
